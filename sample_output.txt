@@ -1,0 +1,3 @@
+$ python classifier.py --route-km 14 --traffic-index 70 --rain-mm 4 --scheduled-peak 1 --previous-delay-min 12
+Training accuracy: 87.5%
+Predicted delay class: major

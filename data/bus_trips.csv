@@ -1,0 +1,17 @@
+route_km,traffic_index,rain_mm,scheduled_peak,previous_delay_min,delay_class
+4,20,0,0,0,on-time
+6,25,0,0,2,on-time
+8,30,0,1,3,minor
+10,45,0,1,5,minor
+12,55,2,1,8,major
+14,70,4,1,12,major
+5,35,0,0,1,on-time
+7,40,1,0,4,minor
+9,50,2,1,6,minor
+11,65,5,1,14,major
+15,80,8,1,18,major
+3,18,0,0,0,on-time
+13,60,3,1,10,major
+8,28,0,0,2,on-time
+10,48,1,1,7,minor
+6,32,0,1,3,on-time
